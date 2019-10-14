@@ -2,6 +2,7 @@
 ssh_host_key.pub
 ssh_host_key
 .vscode/
+ssh_credentials.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
